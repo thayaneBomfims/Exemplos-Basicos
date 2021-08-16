@@ -1,0 +1,76 @@
+﻿/* Please see documentation at https://docs.microsoft.com/aspnet/core/client-side/bundling-and-minification
+for details on configuring this project to bundle and minify static web assets. */
+
+
+h1, h2, h3, h4, h5 {
+    color: #58060a;
+    padding-bottom: 15px;
+}
+
+p {
+    font-size: 18px;
+    color: #232122;
+}
+
+/* Sticky footer styles
+-------------------------------------------------- */
+html {
+  font-size: 14px;
+}
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+.box-shadow {
+  box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05);
+}
+
+/* Sticky footer styles
+-------------------------------------------------- */
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  /* Margin bottom by footer height */
+  margin-bottom: 60px;
+}
+.footer-dark {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    background-color: #343a40;
+    color: white;
+    text-align: center;
+}
+
+.img-col img{
+    width: 100%;
+}
+
+.navbar-collapse{
+    justify-content: flex-end;
+}
+
+.section-padding{
+    padding: 50px 0;
+}
+
+#formulario .big-input, #formulario .big-textarea {
+    width: 100%;
+    border: 1px solid #58060a;
+    border-radius: 5px;
+    padding: 10px;
+}
+
+#formulario .big-input {
+    height: 50px;
+}
+
+.btn-mod {
+    color: white;
+    background-color: #343a40;
+}

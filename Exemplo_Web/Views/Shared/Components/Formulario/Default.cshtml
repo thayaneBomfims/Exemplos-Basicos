@@ -1,0 +1,38 @@
+﻿@model Exemplo_Web.Models.FormularioViewModel
+
+<div class="row">
+    <div class="col-12">
+
+        <h2 class="pb-5">Contato e Formulário</h2>
+
+        <form action="api/values" method="post" id="formulario">
+            <div class="row">
+                <div class="col-md-6 pb-3">
+                    <input type="text" required asp-for="Name" name="name" placeholder="Nome*" class="big-input">
+                    <span style=" color: red;" asp-validation-for="Name"></span>
+                </div>
+                <div class="col-md-6 pb-3">
+                    <input type="text" required asp-for="Phone" name="phone" id="phone" placeholder="Telefone*" class="big-input">
+                    <span style=" color: red;" asp-validation-for="Phone"></span>
+                </div>
+                <div class="col-md-6 pb-3">
+                    <input type="text" required asp-for="Email" name="email" id="email" placeholder="E-mail*" class="big-input">
+                    <span style=" color: red;" asp-validation-for="Email"></span>
+                </div>
+                <div class="col-md-6 pb-3">
+                    <input type="text" required asp-for="About" name="about" id="about" placeholder="Assunto*" class="big-input">
+                    <span style=" color: red;" asp-validation-for="About"></span>
+                </div>
+
+
+                <div class="col-md-12">
+                    <textarea required asp-for="Message" name="Message" id="comment" placeholder="Mensagem" rows="6" class="big-textarea"></textarea>
+                </div>
+                <div class="col-md-12 text-center">
+                    <button id="project-contact-us-button" type="submit" class="btn btn-mod btn-large margin-20px-top">Enviar Mensagem</button>
+                </div>
+            </div>
+        </form>
+
+    </div>
+</div>
