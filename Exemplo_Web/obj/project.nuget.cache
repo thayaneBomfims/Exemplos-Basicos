@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "VWBHfElUcmEtnyZPrYPElDuKj5Kph7NMPD23P9kIsN7cOO2BzVO62bvW/hVQm9yX2Kx0Esxkmochvn5FiNLezw==",
+  "dgSpecHash": "BYRkHnfjqLDE0s6VSqh/TdWgv8QipbCKbuqWOZYq/LAJ0CPH/2L3ZnjgCqLO010WWHH/G2/Vs5ffvcMMr2s5FA==",
   "success": true,
-  "projectFilePath": "C:\\dev\\CANAL DERE DEV\\Agosto\\Semana 3\\Codigos\\Exemplo_Web\\Exemplo_Web.csproj",
+  "projectFilePath": "C:\\Users\\Thatha\\Source\\Repos\\derefall\\Exemplos-Basicos\\Exemplo_Web\\Exemplo_Web.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Thatha\\.nuget\\packages\\microsoft.aspnetcore.mvc.razor.extensions\\3.1.15\\microsoft.aspnetcore.mvc.razor.extensions.3.1.15.nupkg.sha512",
     "C:\\Users\\Thatha\\.nuget\\packages\\microsoft.aspnetcore.mvc.razor.runtimecompilation\\3.1.15\\microsoft.aspnetcore.mvc.razor.runtimecompilation.3.1.15.nupkg.sha512",

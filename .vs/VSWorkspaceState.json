@@ -1,7 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Exemplo_Web",
+    "\\Exemplo_Web\\Views",
+    "\\Exemplo_Web\\Views\\Home"
   ],
-  "SelectedNode": "\\C:\\Users\\Thatha\\Source\\Repos\\derefall\\Exemplos-Basicos",
+  "SelectedNode": "\\Exemplo_Web\\Views\\Home\\_Contador.cshtml",
   "PreviewInSolutionExplorer": false
 }

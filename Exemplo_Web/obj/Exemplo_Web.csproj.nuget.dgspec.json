@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\dev\\CANAL DERE DEV\\Agosto\\Semana 3\\Codigos\\Exemplo_Web\\Exemplo_Web.csproj": {}
+    "C:\\Users\\Thatha\\Source\\Repos\\derefall\\Exemplos-Basicos\\Exemplo_Web\\Exemplo_Web.csproj": {}
   },
   "projects": {
-    "C:\\dev\\CANAL DERE DEV\\Agosto\\Semana 3\\Codigos\\Exemplo_Web\\Exemplo_Web.csproj": {
+    "C:\\Users\\Thatha\\Source\\Repos\\derefall\\Exemplos-Basicos\\Exemplo_Web\\Exemplo_Web.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\dev\\CANAL DERE DEV\\Agosto\\Semana 3\\Codigos\\Exemplo_Web\\Exemplo_Web.csproj",
+        "projectUniqueName": "C:\\Users\\Thatha\\Source\\Repos\\derefall\\Exemplos-Basicos\\Exemplo_Web\\Exemplo_Web.csproj",
         "projectName": "Exemplo_Web",
-        "projectPath": "C:\\dev\\CANAL DERE DEV\\Agosto\\Semana 3\\Codigos\\Exemplo_Web\\Exemplo_Web.csproj",
+        "projectPath": "C:\\Users\\Thatha\\Source\\Repos\\derefall\\Exemplos-Basicos\\Exemplo_Web\\Exemplo_Web.csproj",
         "packagesPath": "C:\\Users\\Thatha\\.nuget\\packages\\",
-        "outputPath": "C:\\dev\\CANAL DERE DEV\\Agosto\\Semana 3\\Codigos\\Exemplo_Web\\obj\\",
+        "outputPath": "C:\\Users\\Thatha\\Source\\Repos\\derefall\\Exemplos-Basicos\\Exemplo_Web\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

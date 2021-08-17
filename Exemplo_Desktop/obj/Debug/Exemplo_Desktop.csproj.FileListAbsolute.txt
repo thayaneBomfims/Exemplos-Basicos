@@ -1,0 +1,9 @@
+C:\Users\Thatha\Source\Repos\derefall\Exemplos-Basicos\Exemplo_Desktop\bin\Debug\Exemplo_Desktop.exe.config
+C:\Users\Thatha\Source\Repos\derefall\Exemplos-Basicos\Exemplo_Desktop\bin\Debug\Exemplo_Desktop.exe
+C:\Users\Thatha\Source\Repos\derefall\Exemplos-Basicos\Exemplo_Desktop\bin\Debug\Exemplo_Desktop.pdb
+C:\Users\Thatha\Source\Repos\derefall\Exemplos-Basicos\Exemplo_Desktop\obj\Debug\Exemplo_Desktop.Calculadora.resources
+C:\Users\Thatha\Source\Repos\derefall\Exemplos-Basicos\Exemplo_Desktop\obj\Debug\Exemplo_Desktop.Properties.Resources.resources
+C:\Users\Thatha\Source\Repos\derefall\Exemplos-Basicos\Exemplo_Desktop\obj\Debug\Exemplo_Desktop.csproj.GenerateResource.cache
+C:\Users\Thatha\Source\Repos\derefall\Exemplos-Basicos\Exemplo_Desktop\obj\Debug\Exemplo_Desktop.csproj.CoreCompileInputs.cache
+C:\Users\Thatha\Source\Repos\derefall\Exemplos-Basicos\Exemplo_Desktop\obj\Debug\Exemplo_Desktop.exe
+C:\Users\Thatha\Source\Repos\derefall\Exemplos-Basicos\Exemplo_Desktop\obj\Debug\Exemplo_Desktop.pdb
